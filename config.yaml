@@ -1,0 +1,7 @@
+path:
+  images: "hello"
+  files: "world"
+database:
+  table_prefix: "b_"
+logging:
+  level: "trace"

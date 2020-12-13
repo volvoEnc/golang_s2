@@ -1,5 +1,5 @@
-module go1.telerota.ru/v1
+module test2
 
 go 1.15
 
-require github.com/gorilla/mux v1.8.0 // indirect
+require gopkg.in/yaml.v2 v2.4.0
